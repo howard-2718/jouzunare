@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "好きこそ物の上手なれ - A humble Japanese learning site"
-  text: "A site where I share my thoughts on learning Japanese."
-  tagline: My great project tagline
+  name: "好きこそ物の上手なれ"
+  text: "- A humble Japanese learning site"
+  tagline: A site where I share my thoughts on learning Japanese.
   actions:
     - theme: brand
       text: Markdown Examples
