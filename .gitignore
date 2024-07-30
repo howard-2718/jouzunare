@@ -1,0 +1,3 @@
+# Ignore the cache and dist folders
+.vitepress/cache
+.vitepress/dist
