@@ -23,6 +23,8 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    ],
+
+    siteTitle: 'Jouzunare - A humble Japanese learning site'
   }
 })
