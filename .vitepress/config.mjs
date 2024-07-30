@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "好きこそ物の上手なれ - A humble Japanese learning site",
   description: "A site where I share my thoughts on learning Japanese.",
+  head: [['link', { rel: 'icon', href: './favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
