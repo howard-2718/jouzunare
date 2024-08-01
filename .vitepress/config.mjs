@@ -29,7 +29,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/howard-2718/jouzunare' }
     ],
 
     siteTitle: '「好きこそ物の上手なれ」',
