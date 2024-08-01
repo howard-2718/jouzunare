@@ -23,3 +23,18 @@
     background-color: rgba(12,12,12,0.2);
     background-blend-mode: darken;
 }
+
+.VPHomeHero {
+    animation: fadeInAnimation ease 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
