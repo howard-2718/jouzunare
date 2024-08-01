@@ -21,12 +21,14 @@ export default defineConfig({
     sidebar: [
       {
         text: 'About',
+        collapsed: false,
         items: [
           { text: 'About', link: '/about' }
         ],
       },
       {
         text: 'Examples',
+        collapsed: false,
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
