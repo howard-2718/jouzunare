@@ -26,6 +26,11 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ],
 
-    siteTitle: 'Jouzunare - A humble Japanese learning site'
+    siteTitle: '「好きこそ物の上手なれ」',
+
+    footer: {
+      message: 'Made with tender love and care.',
+      copyright: 'Copyright © 2024-present Howard Li'
+    }
   }
 })
