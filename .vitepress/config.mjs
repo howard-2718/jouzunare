@@ -8,11 +8,14 @@ export default defineConfig({
 
   srcDir: './src',
 
+  // Set to false to enable dark mode
+  appearance: true, 
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'About', link: '/markdown-examples' }
     ],
 
     sidebar: [
@@ -32,7 +35,7 @@ export default defineConfig({
     siteTitle: '「好きこそ物の上手なれ」',
 
     footer: {
-      message: 'Made with tender love and care.',
+      message: 'Crafted with tender love and care.',
       copyright: 'Copyright © 2024-present Howard Li'
     }
   }

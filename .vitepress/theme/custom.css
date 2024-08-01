@@ -7,3 +7,17 @@
 .name {
     font-family: 'Yu Mincho';
 }
+
+/* Render the background sakura. Photo by Masaaki Komori on Unsplash. */
+.VPContent.is-home {
+    background-clip: content-box; 
+    background-image: url('../../src/assets/home_bg.png');
+    background-color: rgba(255,255,255,0.8);
+    background-blend-mode: lighten;
+}
+
+/* Hide the background sakura when dark mode is active. */
+:root.dark .VPContent.is-home {
+    background-image: none;
+    background-color: inherit;
+}
