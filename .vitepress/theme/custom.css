@@ -1,6 +1,10 @@
+/* Color gradient for the home page title text. And also, set the fonts. */
 :root {
     --vp-home-hero-name-color: transparent;
     --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe, #41d1ff);
+
+    --vp-font-family-base: 'Chinese Quotes', 'Inter var', 'Inter', 'Noto Sans JP', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Helvetica, Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    --vp-font-family-mono: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', 'Noto Sans JP', monospace;
 }
 
 /* Render the Japanese in the home page title block using Mincho font. */
@@ -24,6 +28,7 @@
     background-blend-mode: darken;
 }
 
+/* Fade in animation for the home page title block. */
 .VPHomeHero {
     animation: fadeInAnimation ease 2s;
     animation-iteration-count: 1;

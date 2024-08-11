@@ -1,21 +1,40 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "好きこそ物の上手なれ - A humble Japanese learning site",
   description: "A site where I share my thoughts on learning Japanese.",
-  head: [['link', { rel: 'icon', href: './favicon.ico' }]],
+  head: [
+    [
+      'link',
+      { rel: 'icon', href: '/favicon.ico' }
+    ],
 
+    [
+      'link',
+      { rel: 'preconnect', href: 'https://fonts.googleapis.com' }
+    ],
+
+    [
+      'link',
+      { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }
+    ],
+
+    [
+      'link',
+      { href: 'https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet', rel: 'stylesheet' }
+    ]
+  ],
+
+  // Set the location of all blog posts and related assets to the 'src' folder .
   srcDir: './src',
 
-  // Set to false to enable dark mode
+  // Set to false to force light mode.
   appearance: true, 
 
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About', link: '/markdown-examples' }
+      { text: 'About', link: '/about' }
     ],
 
     sidebar: [
@@ -23,7 +42,7 @@ export default defineConfig({
         text: 'About',
         collapsed: false,
         items: [
-          { text: 'About', link: '/about' }
+          { text: 'Intro', link: '/about' }
         ],
       },
       {
