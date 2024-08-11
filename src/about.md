@@ -16,7 +16,7 @@ As for how far I've come in the two or so years since I started learning Japanes
 
 [^1]: There's a few reasons why I don't think the JLPT is actually *that* great of a benchmark for Japanese proficiency, but as a point of reference, it'll do.
 
-My strongest areas are reading and kanji knowledge, and my weakest area is speaking, which I think makes sense, considering that most of my experience immersing in the Japanese language comes from input (as opposed to output). Going forward, I definitely want to work on being able to express my thoughts adequately in Japanese!
+My strongest areas are reading and kanji knowledge, and my weakest area is speaking, which I think makes sense, considering that most of my experience immersing in the Japanese language comes from input (as opposed to output). Going forward, I definitely want to work on being able to better express my thoughts in Japanese!
 
 ## About This Site
 
@@ -25,6 +25,14 @@ Next, a bit about this site. The title, <code>好きこそ物の上手なれ</co
 [talk about the goal of this site ; the kinds of posts I want to make]
 
 [talk about intended audience ; formatting guidelines]
+
+[formatting guidelines include yojijukugo and kotowaza blocks]
+
+::: tip
+:::
+
+::: warning
+:::
 
 ## Is Japanese Easy, Actually?
 

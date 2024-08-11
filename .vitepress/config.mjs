@@ -67,9 +67,16 @@ export default defineConfig({
     }
   },
 
+  lastUpdated: true,
+
   markdown: {
     config: (md) => {
       md.use(footnote);
     },
+
+    container: {
+      tipLabel: '四字熟語 (Yojijukugo)',
+      warningLabel: '諺 (Kotowaza)'
+    }
   }
 })
