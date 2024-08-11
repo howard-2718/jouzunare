@@ -16,7 +16,7 @@
 .VPContent.is-home {
     background-clip: content-box; 
     background-image: url('../../src/assets/day_bg.png');
-    background-color: rgba(255,255,255,0.6);
+    background-color: rgba(255,255,255,0.5);
     background-blend-mode: lighten;
 }
 
