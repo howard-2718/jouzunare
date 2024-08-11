@@ -46,11 +46,10 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Examples',
+        text: 'Blog',
         collapsed: false,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Tools I Use to Learn Japanese', link: '/1-tools' },
         ]
       }
     ],
