@@ -1,3 +1,4 @@
+import footnote from 'markdown-it-footnote';
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
@@ -64,5 +65,11 @@ export default defineConfig({
       message: 'Crafted with tender love and care.',
       copyright: 'Copyright © 2024-present Howard Li'
     }
+  },
+
+  markdown: {
+    config: (md) => {
+      md.use(footnote);
+    },
   }
 })
