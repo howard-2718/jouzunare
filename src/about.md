@@ -22,26 +22,38 @@ My strongest areas are reading and kanji knowledge, and my weakest area is speak
 
 Next, a bit about this site. The title, <code>好きこそ物の上手なれ</code>, is a proverb that roughly translates to <code>you become good at what you like doing</code>. I chose this title because it reflects a key belief of mine—namely, that motivation is the most important factor when it comes to learning a language in the long term.
 
-[talk about the goal of this site ; the kinds of posts I want to make]
+I intend for this site to serve as a blog where I'll upload posts about topics related to learning Japanese. I am highly interested in the language itself, so expect to see a lot of posts about grammar, vocabulary, and kanji, as opposed to posts about culture or history. Since there's already a lot of existing English content for Japanese learners, I'll also try to cover topics that are less well-known.
 
-[talk about intended audience ; formatting guidelines]
+The topics which I'll post about are intended for anyone with an interest in Japanese, but having a bit of Japanese knowledge definitely wouldn't hurt. Those who can read kana and understand basic grammar are likely to get more out of my posts than an absolute beginner, but there should be something for everyone. Readers at an N3 or N2 level should be able to understand everything with no issues.
 
-[formatting guidelines include yojijukugo and kotowaza blocks]
+As someone who especially likes proverbs and idiomatic expressions, I might include some 四字熟語 ([Yojijukugo](https://en.wikipedia.org/wiki/Yojijukugo)) or 諺 ([Kotowaza](https://en.wikipedia.org/wiki/Japanese_proverbs)) in my posts. In these cases, I'll provide the reading in kana, as well as common translations, in boxes like the ones below. On this note, a strong foundation in kanji would also help when it comes to reading my posts, but I imagine that readers will be fine either way.
 
 ::: tip
+**本末転倒** (ほんまつてんとう) — Putting the cart before the horse ; getting one's priorities backwards.
 :::
 
 ::: warning
+**雨降って地固まる** (あめふってじかたまる) — What doesn't kill you makes you stronger ; after the rain, the ground hardens [literal translation].
+:::
+
+I'll also be including interesting facts or bits of information in info boxes like the one below.
+
+::: info
+My name, Howard, is pronounced as ハワード in Japanese.
 :::
 
 ## Is Japanese Easy, Actually?
 
 If you look around online enough, you might come across resources claiming that learning Japanese is actually easy. I think those authors are mostly being tongue-in-cheek, though, because the truth of the matter is that learning Japanese is **not** easy.
 
-Learning Japanese to even a basic level—I acknowledge that "basic" here is pretty poorly defined, so let's say to the level of passing N5—takes hundreds of hours, and even that is a far, *far* cry from any sort of "fluency".
+Learning Japanese to even a basic level—I acknowledge that "basic" here is pretty poorly defined, so let's say to the level of passing N5—takes hundreds of hours, and even that is a far, *far* cry from any sort of "fluency". What's important is being able to commit yourself to the huge undertaking that is learning Japanese—which makes being motivated all the more important.
 
-[reinstate how important being motivated is to making significant, long-term progress ; 千里の道も一歩から type beat]
+There'll be times when you feel like you're making progress at lightspeed, and there'll also be times when you feel as though you've hit a wall. My advice is to tough it out and roll with the punches—as the saying goes, <code>千里の道も一歩から</code>. Don't hyper-fixate on short term progress (or lack thereof), but instead look at things in the long term.
 
-[express that these thoughts are my own and should not be taken as some sort of maxim]
+::: warning
+**千里の道も一歩から** (せんりのみちもいっぽから) — The journey of a thousand miles begins with a single step.
+:::
 
-[closing remarks]
+Of course, all the thoughts and views expressed on this site are just my personal opinions, and you're free to think however you wish to. If you'd like to get in touch with me, you can reach out either via [Neocities](https://neocities.org/) (that's where I'm hosting this site), or via Discord at <code>nootnoot4900</code>. I promise I won't bite!
+
+Well, that's all I have, at least for the About page. I hope you'll enjoy the rest of the site—and may all your future endeavors be fruitful.

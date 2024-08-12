@@ -75,6 +75,7 @@ export default defineConfig({
     },
 
     container: {
+      infoLabel: 'Info',
       tipLabel: '四字熟語 (Yojijukugo)',
       warningLabel: '諺 (Kotowaza)'
     }
