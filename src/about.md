@@ -12,7 +12,7 @@ I wouldn't consider myself a "weeb", although I do happen to enjoy anime, light 
 
 One such interest of mine is in [Riichi](https://en.wikipedia.org/wiki/Japanese_mahjong) (Japanese) mahjong, which is a fairly niche hobby in the west. As a consequence, the vast majority of Riichi videos, books, etc. have no English translations, so I suppose this is where one part of my motivation to learn Japanese came from. I'm also a fan of the 本格, or "orthodox" style of mystery novels favored by Japanese authors, but again, English translations are few and far between. 
 
-As for how far I've come in the two or so years since I started learning Japanese, although I've yet to take any formal examination, I would place myself somewhere between N2 and N1 on the JLPT.[^1]
+As for how far I've come in the two or so years since I started learning Japanese, although I've yet to take any formal examination, I would place myself somewhere between N2 and N1 on the [JLPT](https://www.jlpt.jp/e/).[^1]
 
 [^1]: There's a few reasons why I don't think the JLPT is actually *that* great of a benchmark for Japanese proficiency, but as a point of reference, it'll do.
 

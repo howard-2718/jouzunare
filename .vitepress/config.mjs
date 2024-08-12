@@ -50,7 +50,7 @@ export default defineConfig({
         text: 'Blog',
         collapsed: false,
         items: [
-          { text: 'Tools I Use to Learn Japanese', link: '/1-tools' },
+          { text: 'The Tools I Use to Learn Japanese', link: '/1-tools' },
         ]
       }
     ],

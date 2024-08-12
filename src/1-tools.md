@@ -1,6 +1,6 @@
-# Tools I Use to Learn Japanese
+# The Tools I Use to Learn Japanese
 
-Hello, world! To start off the blog section, I wanted to do a bit of a deep dive into the sites, tools, and resources I used and currently use to study Japanese. We'll start with kanji resources, then look at grammar, vocab, and immersion resources, before tying up any loose ends.
+Hello, world! To start off the blog section, I wanted to do a bit of a deep dive into the sites, tools, and resources I used/currently use to study Japanese. We'll start with kanji resources, then look at grammar, vocab, and immersion resources, before tying up any loose ends.
 
 What works for me might not work for you, and I'm sure that there are many useful Japanese learning resources out there that I'm missing out on. Ultimately, it's a <code>十人十色</code>-type situation, so remember that what's important is finding resources that work for *you*.[^1]
 
