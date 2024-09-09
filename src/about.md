@@ -16,11 +16,11 @@ As for how far I've come in the two or so years since I started learning Japanes
 
 [^1]: There's a few reasons why I don't think the JLPT is actually *that* great of a benchmark for Japanese proficiency, but as a point of reference, it'll do.
 
-My strongest areas are reading and kanji knowledge, and my weakest area is speaking, which I think makes sense, considering that most of my experience immersing in the Japanese language comes from input (as opposed to output). Going forward, I definitely want to work on being able to better express my thoughts in Japanese!
+My strongest areas are reading and kanji knowledge, and my weakest area is speaking, which I think makes sense, considering that most of my experience with the Japanese language comes from input (as opposed to output). Going forward, I definitely want to work on being able to better express my thoughts in Japanese!
 
 ## About This Site
 
-Next, a bit about this site. The title, <code>好きこそ物の上手なれ</code>, is a proverb that roughly translates to <code>you become good at what you like doing</code>. I chose this title because it reflects a key belief of mine—namely, that motivation is the most important factor when it comes to learning a language in the long term.
+Next, a bit about this site. The title, <code>好きこそ物の上手なれ</code>, is a proverb that roughly translates to <code>you become good at what you like doing</code>. I chose this title because it reflects a key belief of mine—namely, that motivation is the most important factor when it comes to learning a language.
 
 I intend for this site to serve as a blog where I'll upload posts about topics related to learning Japanese. I am highly interested in the language itself, so expect to see a lot of posts about grammar, vocabulary, and kanji, as opposed to posts about culture or history. Since there's already a lot of existing English content for Japanese learners, I'll also try to cover topics that are less well-known.
 

@@ -152,7 +152,7 @@ Let's look at some resources which helped me boost my vocab.
 
 ### Core 6k Anki Deck
 
-[Anki](https://apps.ankiweb.net/) is a flashcard software which uses SRS to help optimize retention and long-term memory. If you've been in the Japanese learning scene for a while, then you've *definitely* heard of Anki, and you've probably also heard of the Core Anki decks.
+[Anki](https://apps.ankiweb.net/) is a flashcard software which uses SRS to help optimize retention and long-term memory. If you've been in the Japanese learning scene for a while, then you've definitely heard of Anki, and you've probably also heard of the Core Anki decks.
 
 In the case of the [Core 6k](https://ankiweb.net/shared/info/1607129785) deck, the deck consists of 6000 vocabulary flashcards, featuring native pronounciation audio. If you learn new cards at a rate of 20 or so per day, then you'll finish the whole deck in under a year. 
 
@@ -160,7 +160,7 @@ Below is an example of what using the deck looks like in Anki.
 
 ![The card for 内心 in the Core 6k Anki deck.](media/core6k.png)
 
-Getting through this deck should massively boost your reading and listening abilities, and I believe that it's definitely worth the time investment.
+Getting through this deck should massively boost your reading and listening abilities, and I believe that it's certainly worth the time investment.
 
 ### Bret Mayer's "Kanji Stuff"
 
@@ -222,7 +222,7 @@ In addition to livestreamed games, there's also strategy videos, VTuber livestre
 
 Lastly, I wanted to cover some miscellaneous resources that really helped me over my Japanese learning journey (of a thousand steps). These resources don't really focus on a single specific aspect of Japanese, but nevertheless, I believe that they're invaluable to any aspiring learner.
 
-Now, as with any hobby, if you're working on it all by yourself, things can get a bit lonely, and it might be hard to stay motivated. For this reason, I think that joining a Japanese learning community is really helpful, as you can discuss your progress and thoughts with people in the same (proverbial) boat as you.
+Now, as with any hobby, if you're working on it all by yourself, things can get a bit lonely, and it might be hard to keep motivated. For this reason, I think that joining a Japanese learning community is really helpful, as you can discuss your progress and thoughts with people in the same (proverbial) boat as you.
 
 I'm fortunate to be part of a tight-knit community of Japanese learners, and we often talk about topics such as how much time we spent immersing over the week, what kind of content we've recently been enjoying, and so on. I think this kind of mutual discussion is very encouraging, and it helps me stay motivated.
 
@@ -268,4 +268,4 @@ From the top image, going down:
 * Amazon.jp,
 * 読書メーター,
 * Youtube/日本プロ麻雀連盟,
-* IMABI
+* IMABI.
