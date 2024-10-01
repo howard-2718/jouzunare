@@ -51,6 +51,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'The Tools I Use to Learn Japanese', link: '/1-tools' },
+          { text: 'What are Yojijukugo? + Some Interesting Examples', link: '/2-yoji'},
         ]
       }
     ],
