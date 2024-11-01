@@ -244,7 +244,7 @@ IMABI is an all-in-one resource, primarily covering grammar. The main reason why
 
 In contrast, WaniKani is a kanji and vocbulary site which uses a method very similar to Heisig's RTK. The main reason why I don't use it is because it costs money, and in contrast, Kanji Koohii is free! But of course, there are differences, and you might prefer the former, which is perfectly fine.
 
-### Closing Remarks
+## Closing Remarks
 
 As I mentioned in the introduction, these resources which I've listed are nothing more than what worked for me, and your mileage with them may vary. But of course, you won't know if something works for you until you try, so if anything I've mentioned here interests you, I implore you to take a look.
 
