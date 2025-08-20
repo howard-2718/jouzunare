@@ -52,7 +52,7 @@ export default defineConfig({
         items: [
           { text: 'The Tools I Use to Learn Japanese', link: '/1-tools' },
           { text: 'What are Yojijukugo? + Some Interesting Examples', link: '/2-yoji'},
-          { text: 'Beyond the JLPT: Japanese Language Exams', link: '/3-jlpt'}
+          { text: 'Beyond the JLPT: Japanese Language Exams', link: '/3-jlpt'},
         ]
       }
     ],
